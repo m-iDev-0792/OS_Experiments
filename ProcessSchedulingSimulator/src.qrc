@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>truck.png</file>
+        <file>CPU.png</file>
+        <file>parkinglot.jpg</file>
+        <file>banner.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>lawnmower.png</file>
+        <file>stamp.png</file>
+    </qresource>
+</RCC>

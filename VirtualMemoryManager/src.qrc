@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>hand.png</file>
+        <file>kick.png</file>
+        <file>arrow.png</file>
+        <file>background.jpg</file>
+        <file>chip.png</file>
+    </qresource>
+</RCC>
